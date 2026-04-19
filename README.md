@@ -1,6 +1,7 @@
 <div align="center">
-<h1>fogos</h1>
-<p>A fast and simple website blocker using /etc/hosts</p>
+    <img src="assets/logo.png" width="256" />
+    <h1>fogos</h1>
+    <p>A fast and simple website blocker using /etc/hosts</p>
 </div>
 
 **`fogos`** is a minimal command-line tool written in Go to block or unblock websites on your system by modifying `/etc/hosts`. It supports checking the block status, listing blocked websites, and works on Linux and macOS. (Haven't yet tested it on Windows)
